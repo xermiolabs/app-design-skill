@@ -45,6 +45,12 @@ Keep almost everything under 300ms. Exits are shorter than entrances.
 - Exit animations: short, with a small `translateY` (4 to 8px) and a fade.
 - Modal backdrops: a solid dim (for example `rgb(0 0 0 / 0.4)`) reads better and performs better than a full-screen blur.
 
+## Haptics (mobile)
+
+- Use haptics for moments that matter: a success, a warning, a selection change in a picker, a long press that opens a menu.
+- iOS: `.sensoryFeedback(.success, trigger: value)` in SwiftUI. Android: `LocalHapticFeedback` in Compose. React Native: `expo-haptics`.
+- Never on every tap, scroll or keystroke. Haptics that fire constantly get turned off.
+
 ## What not to do
 
 - No bounce on every interaction.

@@ -7,12 +7,14 @@ Write tokens before building. A token is a named decision. If a value is not in 
 One scale, based on 4:
 
 ```
-4  8  12  16  24  32  48  64  96
+Mobile:  4  8  12  16  20  24  32  40  48
+Web:     4  8  12  16  24  32  48  64  96
 ```
 
 - 4 and 8: inside small components (icon to label, chip padding).
-- 12 and 16: inside cards, list rows, form fields; screen margins on phones (16).
-- 24 and 32: between groups inside a section.
+- 12 and 16: inside cards, list rows, form fields; screen margins on phones (16, or 20 on larger iPhones).
+- 20 to 32: between groups inside a screen.
+- 40 and 48: rare on mobile; the largest gap you should see between sections. Anything bigger on a phone is usually dead space.
 - 48 to 96: between sections on web pages.
 
 Rule of thumb: the space between two groups should be at least twice the space inside each group.

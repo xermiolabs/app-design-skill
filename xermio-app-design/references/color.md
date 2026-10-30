@@ -2,13 +2,23 @@
 
 Most good interfaces are almost colorless. Color is a signal, so it only works when it is rare.
 
-## The 80 / 15 / 5 rule
+## Two color strategies
 
-- About 80 percent: background and surfaces (white, near-white, or a dark base).
-- About 15 percent: text, borders, icons in neutral tones.
-- About 5 percent: the accent, on the primary action, the active state and the one number that matters.
+Pick one from the product preset (`presets.md`).
 
-If a screen has the accent in more than three places, remove some.
+**Tool-like apps** (productivity, finance, business, AI assistants): the chrome does the work in neutrals.
+
+- About 80 percent background and surfaces, 15 percent neutral text and icons, 5 percent accent.
+- The accent marks the primary action, the active state and the one number that matters. If it appears in more than three places on a screen, remove some.
+
+**Content-led apps** (music, video, photo, shopping, food, travel): the content carries the color.
+
+- The chrome (bars, backgrounds, text) stays near black or near white and steps back.
+- Artwork, photos and products are shown large and untinted. Do not mute, desaturate or overlay brand color on them.
+- The accent is used even less, because the content is already colorful.
+- A dominant color pulled from the current artwork (for a player or detail header) is fine when it stays behind the content, not on top of it.
+
+Brand-forward apps (kids, games, some consumer brands, color energy 5) can put bold color in the chrome itself, with one hue as the base and contrast still checked.
 
 ## Building a palette
 

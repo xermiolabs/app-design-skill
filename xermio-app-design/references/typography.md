@@ -21,7 +21,7 @@ Using one font for everything is a default too. Match the type to what the produ
 | Friendly consumer, wellness, habits | Plus Jakarta Sans, Nunito Sans, Manrope | Same family | Softer shapes; keep weights moderate |
 | Luxury, fashion, beauty, hospitality | Playfair Display, Cormorant Garamond, Bodoni Moda | A clean sans (Inter, Geist) | High-contrast serifs only at 28 to 36px and up, never for buttons or small UI text |
 | Editorial, content-heavy | Fraunces, Instrument Serif, Source Serif 4, Newsreader | A strong sans or the serif's text cut | Serif headlines, generous line height for reading |
-| Native iOS / Android apps | System font | System font | Custom fonts only as a deliberate brand choice |
+| Native iOS / Android apps | System font | System font | Custom fonts only as a deliberate brand choice, mapped to the platform text styles so they still scale |
 
 Always test at the real size on a real screen. A font that looks elegant at 72px can be unreadable at 13px.
 

@@ -4,7 +4,9 @@ When you are unsure how something should look, do not invent it. Find a real pro
 
 ## Real product screens and flows
 
-- Mobbin (mobbin.com): the largest library of real iOS, Android and web app screens and flows. Search by pattern: onboarding, paywall, settings, empty state.
+- Mobbin (mobbin.com): the largest library of real iOS, Android and web app screens and flows. Search by pattern: onboarding, paywall, settings, empty state. Start here for any mobile screen.
+- Apple Design Award winners and finalists (developer.apple.com/design/awards): the best-crafted iOS, iPadOS and macOS apps each year.
+- Google Play's editors' picks and Material Design case studies (m3.material.io) for Android.
 - SaaS Landing Page (saaslandingpage.com) and Saaspo (saaspo.com): real SaaS marketing sites by section.
 - Land-book (land-book.com): landing pages across industries.
 
@@ -27,6 +29,8 @@ When you are unsure how something should look, do not invent it. Find a real pro
 
 ## Products worth studying for polish
 
-Linear (restraint, density, keyboard-first), Stripe (documentation and dashboards), Vercel (typography and dark UI), Apple (hierarchy and product pages), Things 3 (native iOS and macOS craft), Arc and Raycast (macOS interaction detail).
+Mobile: Things 3 (native iOS craft), Apple Music and Apple Maps (system patterns at their best), Flighty (status-first design), Copilot Money (dense data that stays calm), Duolingo (onboarding and feedback). Web and desktop: Linear (restraint, density), Stripe (dashboards), Raycast (macOS interaction detail).
+
+The per-category lists in `presets.md` are the main study lists.
 
 Study them for decisions: how much space, how few colors, how quiet the secondary text is. Do not copy their layouts.
